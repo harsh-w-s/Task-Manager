@@ -50,8 +50,10 @@ Built with **Spring Boot**, **JPA/Hibernate**, and **MySQL**, secured with **JWT
 - Maven 📦  
 - MySQL 🗄️  
 
-### Setup
-1. Clone the repo:  
-   ```bash
-   git clone <your-repo-url>
-   cd task-manager-backend
+### Video
+
+
+https://github.com/user-attachments/assets/097b99ca-31e3-4f01-b031-31ebed2baaad
+
+
+   
